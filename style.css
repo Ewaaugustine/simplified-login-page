@@ -1,0 +1,110 @@
+@import url('http://fonts.cdnfonts.com/css/tt-commons');
+
+
+body{
+    background-color: black;
+    font-family: 'tt-commons',sans-serif;
+    color: white;
+    
+}
+
+.sign-up{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.image{
+margin-left: 50px;
+
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+Form label{
+    display: flex;   
+    margin-top: 20px; 
+    font-size: 18px;
+}
+
+form input{
+    width: 100px;
+    padding: 7px;
+    border: 1px solid white;
+    border-radius: 2px;
+    
+    
+}
+
+input[type="text"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+   background-color: transparent;
+}
+
+.email{
+    border-style: solid;
+}
+
+input[type="password"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    background-color: transparent;
+   
+}
+
+input[type="submit"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #0074ab;
+    color: white;
+}
+
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.forget{
+    text-align: center;
+    justify-content: center;
+}
+
+.sign-in{
+    text-align: center;
+    justify-content: center;
+}
+
+#create{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.ending a{
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
